@@ -30,8 +30,8 @@ clase.
 prueba. Indica qué opinas sobre los resultados, especificando si crees que uno de los dos
 modelos es mejor para esta tarea específica.
 
--[HTML](./A2_1-598557.html)
+-[HTML](./A2_2-598557.html)
 
--[Jupyter Notebook](./A2_1-598557.ipynb)
+-[Jupyter Notebook](./A2_2-598557.ipynb)
 
 -[Base de Datos](./USA%20Housing%20Dataset.csv)
